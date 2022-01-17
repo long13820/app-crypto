@@ -1,0 +1,1 @@
+ex {default as Navbar} from './Navbar';
